@@ -2,28 +2,14 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
-   "id": "22e1c390-6c8c-4b13-bf49-e32738a9d2c1",
+   "execution_count": null,
+   "id": "ffc9cc85-ffbc-432f-a3b1-0c45d77f45b0",
    "metadata": {},
    "outputs": [],
    "source": [
-    "def calc_rect_area(lenth, width):\n",
-    "\n",
-    "    return_area = lenth * width\n",
-    "\n",
-    "    print(return_area)\n",
-    "    \n",
-    "    \n",
-    "    "
+    "def calc_rect_area(length, width):\n",
+    "    return length * width"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "04be3cdd-7c24-4b02-ba17-c27dac418dc5",
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {

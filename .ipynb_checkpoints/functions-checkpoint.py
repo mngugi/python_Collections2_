@@ -3,18 +3,12 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "22e1c390-6c8c-4b13-bf49-e32738a9d2c1",
+   "id": "ffc9cc85-ffbc-432f-a3b1-0c45d77f45b0",
    "metadata": {},
    "outputs": [],
    "source": [
-    "def calc_rect_area(lenth, width):\n",
-    "\n",
-    "    return_area = lenth * width\n",
-    "\n",
-    "    print(return_area)\n",
-    "    \n",
-    "    \n",
-    "    "
+    "def calc_rect_area(length, width):\n",
+    "    return length * width"
    ]
   }
  ],
