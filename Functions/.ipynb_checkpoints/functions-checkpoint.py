@@ -1,4 +1,5 @@
 def calc_rect_area(length, width):
-    Area = length * width
-    return Area
-    print(f'Area of a Lectangle is:{}')
+    area = length * width
+    print(f'Area of a rectangle is: {area}')
+    return area
+  
