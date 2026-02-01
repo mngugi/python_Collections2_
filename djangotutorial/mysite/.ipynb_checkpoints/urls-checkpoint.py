@@ -20,7 +20,7 @@ from django.urls import include, path
 from django.http import HttpResponse
 
 def home(request):
-    return HttpResponse("Welcome to mysite homepage!")
+    return HttpResponse("Welcome to My Site : Global Wrming!")
 
 urlpatterns = [
     path("", home, name="home"),
