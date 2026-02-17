@@ -1,3 +1,3 @@
 def typeNum():
-    i = int(raw_input("Enter Number: ")) * 2
+    i = int(input("Enter Number: ")) * 2
     return i
